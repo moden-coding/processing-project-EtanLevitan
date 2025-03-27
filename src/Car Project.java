@@ -102,9 +102,6 @@ public class App extends PApplet {
 
     }
 
-
-    
-
     public void score() {
         fill(225);
         textAlign(400, 0);
